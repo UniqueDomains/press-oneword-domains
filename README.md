@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .PRESS one-word domains still available to buy.
 
-This dataset contains 4,579 .PRESS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,583 .PRESS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.PRESS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=press-oneword-domains&utm_content=description.top) (4,580) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.PRESS one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.press        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.press      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.press        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.press      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.press  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.press      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.press  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.PRESS one word domain
 | abatic.press     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.press    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.press   | available | 50       | 1%     | 8      |           |         |         |
-| abc.press        | available | 102      | 41%    | 3      |           |         |         |
+| abc.press        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.press  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.press  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.press | available | 56       | 1%     | 10     |           |         |         |
