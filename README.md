@@ -1,22 +1,22 @@
-# Available .PRESS One-Word Domains (9,355)
+# Available .PRESS One-Word Domains (11,828)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C356%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C355%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C828%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .press one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .press one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,828 domains** on the canonical page below.
 
-**Public extract:** 9,356 rows · **Live catalog:** 9,355 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,828 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/press`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PRESS one-word domain
 
 ### Files
 
-- `press.csv` — public CSV extract (9,356 rows)
-- `press.json` — public JSON extract (9,356 rows)
+- `press.csv` — public CSV extract (1,000 rows)
+- `press.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| branded.press    | available | $35.98    | —             | 72             | 98     | 7      | namecheap                                    |
-| prompt.press     | resell    | —         | —             | 114            | 68     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| power.press      | premium   | $937.50   | —             | 82             | 62     | 5      | name.com                                     |
-| nationwide.press | available | $35.98    | —             | 76             | 66     | 10     | namecheap                                    |
-| news.press       | resell    | —         | —             | 82             | 64     | 4      | NAME DOT STORE INC                           |
-| cloud.press      | premium   | $3,250    | $6,500        | 70             | 59     | 5      | namecheap                                    |
-| seventeen.press  | available | $35.98    | —             | 84             | 62     | 9      | namecheap                                    |
-| web.press        | resell    | —         | —             | 72             | 61     | 3      | NAME DOT STORE INC                           |
-| ace.press        | premium   | $1,875    | $3,750        | 88             | 57     | 3      | name.com                                     |
-| conscious.press  | available | $35.98    | —             | 89             | 38     | 9      | namecheap                                    |
-| the.press        | resell    | —         | —             | 88             | 58     | 3      | NAME DOT STORE INC                           |
-| live.press       | premium   | $3,125    | $6,250        | 108            | 56     | 4      | name.com                                     |
-| goon.press       | available | $35.98    | —             | 80             | 35     | 5      | namecheap                                    |
-| free.press       | resell    | —         | —             | 88             | 57     | 4      | NAME DOT STORE INC                           |
-| good.press       | premium   | $3,125    | $6,250        | 82             | 55     | 4      | name.com                                     |
-| nimble.press     | available | $35.98    | —             | 94             | 33     | 6      | namecheap                                    |
-| local.press      | resell    | —         | —             | 102            | 54     | 5      | NAME DOT STORE INC                           |
-| zero.press       | premium   | $625      | $1,250        | 112            | 53     | 4      | name.com                                     |
-| clown.press      | available | $43.48    | —             | 80             | 31     | 5      | namecheap                                    |
-| tech.press       | resell    | —         | —             | 86             | 50     | 4      | NAME DOT STORE INC                           |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| CocaCola.press     | available | $43.48    | —             | 92             | 82     | 9      | namecheap        |
+| autonomous.press   | resell    | —         | —             | 80             | 43     | 10     | GoDaddy.com, LLC |
+| Chanel.press       | premium   | $175      | $350          | 80             | 77     | 6      | namecheap        |
+| commonground.press | available | $43.48    | —             | 74             | 28     | 13     | namecheap        |
+| tokens.press       | resell    | —         | —             | 51             | 36     | 6      | DNSPod, Inc.     |
+| insight.press      | premium   | $1,875    | —             | 76             | 69     | 8      | name.com         |
+| Trex.press         | available | $43.48    | —             | 80             | 24     | 5      | namecheap        |
+| Books.press        | premium   | $3,500    | $7,000        | 52             | 49     | 5      | namecheap        |
+| whats.press        | available | $4.99     | $86.99        | 58             | 24     | 5      | namesilo         |
+| cars.press         | premium   | $3,125    | —             | 66             | 47     | 4      | name.com         |
+| rekt.press         | available | $43.48    | —             | 40             | 24     | 4      | namecheap        |
+| Ryan.press         | premium   | $350      | $700          | 60             | 44     | 4      | namecheap        |
+| wins.press         | available | $43.48    | —             | 68             | 21     | 4      | namecheap        |
+| jobs.press         | premium   | $3,125    | —             | 79             | 42     | 4      | name.com         |
+| likes.press        | available | $43.48    | —             | 52             | 20     | 5      | namecheap        |
+| lets.press         | premium   | $156.25   | —             | 77             | 39     | 4      | name.com         |
+| knows.press        | available | $43.48    | —             | 48             | 20     | 5      | namecheap        |
+| WiFi.press         | premium   | $350      | $700          | 83             | 37     | 5      | namecheap        |
+| lostandfound.press | available | $43.48    | —             | 64             | 19     | 14     | namecheap        |
+| stories.press      | premium   | $1,875    | —             | 58             | 36     | 7      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,356-row public sample | 9,355 live domains                               |
+| 1,000-row public sample | 11,828 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PRESS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PRESS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
