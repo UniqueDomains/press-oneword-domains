@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .press one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,300 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,300 domains · **Median ask:** $179.31 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,300 domains · **Median ask:** $238.86 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/press`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/press`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PRESS one-word domain
 
 ### Files
 
-- `press.csv` — public CSV extract (1,000 rows)
-- `press.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `press.csv`, public CSV extract (1,000 rows)
+- `press.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Trex.press         | available | $43.48    | —             | 80             | 24     | 5      | namecheap        |
-| getup.press        | available | $43.48    | —             | 82             | 15     | 6      | namecheap        |
-| gearup.press       | available | $43.48    | —             | 80             | 16     | 7      | namecheap        |
-| playin.press       | available | $43.48    | —             | 80             | 10     | 7      | namecheap        |
-| playon.press       | available | $43.48    | —             | 80             | 14     | 7      | namecheap        |
-| stirup.press       | available | $43.48    | —             | 82             | 3      | 7      | namecheap        |
-| dogsick.press      | available | $43.48    | —             | 90             | 1      | 7      | namecheap        |
-| FabFour.press      | available | $4.99     | $86.99        | 82             | 3      | 8      | namesilo         |
-| fitinto.press      | available | $43.48    | —             | 84             | 1      | 8      | namecheap        |
-| CocaCola.press     | available | $43.48    | —             | 92             | 82     | 9      | namecheap        |
-| autonomous.press   | resell    | —         | —             | 80             | 44     | 10     | GoDaddy.com, LLC |
-| Chanel.press       | premium   | $175      | $350          | 80             | 77     | 6      | namecheap        |
-| commonground.press | available | $43.48    | —             | 74             | 28     | 13     | namecheap        |
-| Books.press        | premium   | $3,500    | $7,000        | 52             | 49     | 5      | namecheap        |
-| cars.press         | premium   | $3,125    | —             | 66             | 47     | 4      | name.com         |
-| whats.press        | available | $4.99     | $86.99        | 58             | 24     | 5      | namesilo         |
-| Ryan.press         | premium   | $350      | $700          | 60             | 44     | 4      | namecheap        |
-| rekt.press         | available | $43.48    | —             | 40             | 24     | 4      | namecheap        |
-| lets.press         | premium   | $156.25   | —             | 77             | 39     | 4      | name.com         |
-| wins.press         | available | $43.48    | —             | 68             | 21     | 4      | namecheap        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| atop.press     | available | $4.99     | $86.99        | medium         | low    | 4      | namesilo                                                |
+| axis.press     | resell    | $43.48    | —             | medium         | medium | 4      | DNSPod, Inc.                                            |
+| abc.press      | premium   | $3,250    | $6,500        | high           | medium | 3      | namecheap                                               |
+| avon.press     | available | $4.99     | $86.99        | high           | low    | 4      | namesilo                                                |
+| the.press      | resell    | —         | —             | high           | medium | 3      | Namify Domains Inc                                      |
+| add.press      | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
+| chew.press     | available | $4.99     | $86.99        | medium         | low    | 4      | namesilo                                                |
+| sport.press    | resell    | —         | —             | high           | low    | 5      | Namify Domains Inc                                      |
+| ADS.press      | premium   | $3,125    | —             | high           | medium | 3      | name.com                                                |
+| choc.press     | available | $4.99     | $86.99        | high           | low    | 4      | namesilo                                                |
+| setup.press    | resell    | —         | —             | high           | low    | 6      | NameCheap, Inc.                                         |
+| aim.press      | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
+| clam.press     | available | $4.99     | $86.99        | high           | low    | 4      | namesilo                                                |
+| chatbot.press  | resell    | —         | —             | high           | medium | 7      | Porkbun LLC                                             |
+| BJP.press      | premium   | $156.25   | —             | medium         | low    | 3      | name.com                                                |
+| clap.press     | available | $43.48    | —             | high           | low    | 4      | namecheap                                               |
+| terminal.press | resell    | —         | —             | high           | low    | 8      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| bob.press      | premium   | $3,125    | —             | high           | medium | 3      | name.com                                                |
+| guts.press     | available | $43.48    | —             | high           | low    | 4      | namecheap                                               |
+| bot.press      | premium   | $937.50   | —             | high           | medium | 3      | name.com                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of .press domains. The extension gives every name a media, publishing, news, PR, or announcement angle, so the best fits are terms that still read cleanly with that context. Examples such as chief.press, finals.press, and forces.press feel direct and memorable, while names like Acup.press or dogsit.press are more niche and should be judged on audience fit. When comparing these domains, focus on whether the word pairs naturally with .press, whether it is easy to say and spell, and whether the asking price is justified by clarity and reuse potential. The median ask is $179.31.
+This list of one-word .press domain names covers a wide range of styles, from everyday phrases like gowiththeflow.press and cometrue.press to niche compounds such as coffeeglass.press and mealsonwheels.press. With 12,300+ domains and a median ask near $239, this .press selection offers affordable entry points for content brands, newsletters, and media projects. Because .press signals publishing intent by default, these names can suit blogs, press kits, and niche media outlets without needing an exact-match keyword.
 
-- All names in this selection use the .press extension
-- Median ask across the set is $179.31
-- Best picks read naturally with a media or PR angle
-- Check spelling clarity and trademark exposure carefully
+- 12,300+ one-word .press domains in this selection
+- Median ask near $239 — budget-friendly for most buyers
+- Names span compound phrases, food, and lifestyle themes
+- Updated daily to reflect current .press availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PRESS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PRESS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
