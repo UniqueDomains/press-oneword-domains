@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .press one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,371 domains · **Median ask:** $113.69 · **High-demand under $2,500:** 57
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/press`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| simple.press   | premium   | $625      | $1,250        | high           | medium | 6      | name.com                                                |
-| special.press  | premium   | $3,125    | —             | high           | low    | 7      | name.com                                                |
 | alky.press     | available | $4.99     | $86.99        | low            | low    | 4      | namesilo                                                |
 | axis.press     | resell    | $43.48    | —             | medium         | medium | 4      | DNSPod, Inc.                                            |
 | abc.press      | premium   | $3,250    | $6,500        | high           | medium | 3      | namecheap                                               |
@@ -74,16 +72,18 @@ print(df.head())
 | add.press      | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
 | auld.press     | available | $4.99     | $86.99        | low            | low    | 4      | namesilo                                                |
 | sport.press    | resell    | —         | —             | high           | low    | 5      | Namify Domains Inc                                      |
-| ADS.press      | premium   | $3,125    | —             | high           | medium | 3      | name.com                                                |
+| ads.press      | premium   | $3,125    | —             | high           | medium | 3      | name.com                                                |
 | avon.press     | available | $4.99     | $86.99        | high           | low    | 4      | namesilo                                                |
 | setup.press    | resell    | —         | —             | high           | low    | 6      | NameCheap, Inc.                                         |
 | aim.press      | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
 | buns.press     | available | $4.99     | $86.99        | low            | low    | 4      | namesilo                                                |
 | chatbot.press  | resell    | —         | —             | high           | medium | 7      | Porkbun LLC                                             |
-| BJP.press      | premium   | $156.25   | —             | medium         | low    | 3      | name.com                                                |
+| bjp.press      | premium   | $156.25   | —             | medium         | low    | 3      | name.com                                                |
 | chew.press     | available | $4.99     | $86.99        | medium         | low    | 4      | namesilo                                                |
 | terminal.press | resell    | —         | —             | medium         | low    | 8      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | bob.press      | premium   | $3,125    | —             | high           | medium | 3      | name.com                                                |
+| choc.press     | available | $4.99     | $86.99        | high           | low    | 4      | namesilo                                                |
+| bot.press      | premium   | $937.50   | —             | high           | medium | 3      | name.com                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PRESS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PRESS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
