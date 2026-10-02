@@ -1,10 +1,10 @@
-# Available .PRESS One-Word Domains (30,639)
+# Available .PRESS One-Word Domains (32,150)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C639%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C150%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .press one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,639 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,150 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,639 domains · **Median ask:** $217.76 · **High-demand under $2,500:** 122
+**Public extract:** 1,000 rows · **Live catalog:** 32,150 domains · **Median ask:** $211.61 · **High-demand under $2,500:** 125
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/press`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| biol.press      | available | $4.99     | $86.99        | high           | low    | 4      | namesilo           |
+| asad.press      | available | $4.99     | $86.99        | medium         | low    | 4      | namesilo           |
 | finance.press   | resell    | —         | —             | high           | medium | 7      | Namify Domains Inc |
 | adh.press       | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo           |
-| boer.press      | available | $4.99     | $86.99        | medium         | low    | 4      | namesilo           |
+| biol.press      | available | $4.99     | $86.99        | high           | low    | 4      | namesilo           |
 | generate.press  | resell    | —         | —             | high           | low    | 8      | —                  |
 | ape.press       | premium   | $1,875    | $3,750        | high           | low    | 3      | name.com           |
-| bows.press      | available | $66.56    | $66.56        | medium         | low    | 4      | dynadot            |
+| boer.press      | available | $4.99     | $86.99        | medium         | low    | 4      | namesilo           |
 | moonlight.press | resell    | —         | —             | high           | low    | 9      | Sav.com, LLC       |
 | arm.press       | premium   | $1,875    | —             | high           | medium | 3      | name.com           |
-| burr.press      | available | $4.98     | $43.48        | medium         | low    | 4      | namecheap          |
+| bows.press      | available | $66.56    | $66.56        | medium         | low    | 4      | dynadot            |
 | bmi.press       | premium   | $4,140    | $4,140        | high           | medium | 3      | namesilo           |
-| cmos.press      | available | $4.68     | $64.37        | medium         | low    | 4      | spaceship          |
+| burr.press      | available | $4.98     | $43.48        | medium         | low    | 4      | namecheap          |
 | bot.press       | premium   | $776.45   | $1,552.70     | high           | medium | 3      | spaceship          |
-| daly.press      | available | $4.99     | $86.99        | high           | low    | 4      | namesilo           |
+| cmos.press      | available | $4.68     | $64.37        | medium         | low    | 4      | spaceship          |
 | box.press       | premium   | $6,900    | $6,900        | high           | high   | 3      | namesilo           |
-| deng.press      | available | $4.99     | $86.99        | high           | low    | 4      | namesilo           |
+| cuny.press      | available | $4.68     | $64.37        | medium         | low    | 4      | spaceship          |
 | cfs.press       | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo           |
-| drab.press      | available | $4.99     | $86.99        | medium         | low    | 4      | namesilo           |
+| daly.press      | available | $4.99     | $86.99        | high           | low    | 4      | namesilo           |
 | cir.press       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo           |
-| dslr.press      | available | $4.99     | $86.99        | high           | low    | 4      | namesilo           |
+| deng.press      | available | $4.99     | $86.99        | high           | low    | 4      | namesilo           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,639 live domains                        |
+| 1,000-row public sample | 32,150 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 122 high-demand names under $2,500         |
+| Basic exported fields   | 125 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PRESS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PRESS One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
